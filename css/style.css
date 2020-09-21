@@ -15,7 +15,7 @@ img {
   height: 100%;
 }
 
-#red {
+#red div{
   background-color: #FF0000;
   text-align: right;
 }
