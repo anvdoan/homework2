@@ -1,4 +1,4 @@
-/* 
+/*
 html5doctor.com Reset Stylesheet
 v1.6.1
 Last Updated: 2010-09-17
@@ -58,20 +58,23 @@ a {
     background:transparent;
 }
 
-/* change colours to suit your needs */
+/* change colours to suit your needs
 ins {
     background-color:#ff9;
     color:#000;
     text-decoration:none;
 }
+*/
 
-/* change colours to suit your needs */
+/* change colours to suit your needs
 mark {
     background-color:#ff9;
     color:#000;
     font-style:italic;
     font-weight:bold;
 }
+*/
+
 
 del {
     text-decoration: line-through;
