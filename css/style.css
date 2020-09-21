@@ -2,11 +2,11 @@ html {
   font-family: "Lucida Grande", sans-serif;
   color: #FFFFFF;
   background-color: #000000;
-  padding: 0px;
-
+  
 }
 
 p{
+  padding: 0px;
   font-size: 24px;
   padding-top: 20px;
 }
