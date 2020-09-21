@@ -15,22 +15,22 @@ img {
   height: 100%;
 }
 
-#red div{
+#red {
   background-color: #FF0000;
   text-align: right;
 }
 
-#blue{
+#blue {
   background-color: #0000FF;
   text-align: left;
 }
 
-#yellow{
+#yellow {
   background-color: #FFFF00;
   text-align: right;
 }
 
-#green{
+#green {
   background-color: #008000;
   text-align: left;
 }
