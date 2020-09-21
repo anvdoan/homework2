@@ -3,6 +3,10 @@ html {
   color: #FFFFFF;
   background-color: 000000;
 }
+h1{
+  height: 64px;
+  text-align: center;
+}
 
 div{
   min-height: 150px;
