@@ -11,8 +11,15 @@ p{
 }
 
 h1{
+  font-size: 64px;
   height:  64px;
   text-align: center;
+}
+
+h2{
+  font-size: 30px;
+  height: 30px;
+  text-shadow: 5px 5px 2px #808080;
 }
 
 div{
@@ -42,6 +49,15 @@ img {
 #yellow {
   background-color: #FFFF00;
   text-align: right;
+}
+
+#yellow h2{
+  color: #000000;
+  text-shadow: 5px 5px 2px #c7e2c7;
+}
+
+#yellow p{
+  color: #000000;
 }
 
 #green {
