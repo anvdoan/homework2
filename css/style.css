@@ -4,6 +4,12 @@ html {
   background-color: #000000;
 
 }
+
+p{
+  font-size: 24px;
+  padding-top: 20px;
+}
+
 h1{
   height:  64px;
   text-align: center;
