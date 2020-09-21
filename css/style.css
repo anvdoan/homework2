@@ -1,6 +1,12 @@
 html {
   font-family: "Lucida Console", sans-serif;
 }
+
+div{
+  min-height: 150px;
+  padding: 25px;
+
+}
 img {
   display: : block;
   margin-left: auto;
